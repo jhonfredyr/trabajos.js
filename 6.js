@@ -25,3 +25,4 @@ function combinaciones(cadena, n) {
 const cadena = "abcd";
 const ancho = 3;
 console.log(combinaciones(cadena, ancho));
+//esta dificil
